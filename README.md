@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://cdn.wccftech.com/wp-content/uploads/2016/05/42f584ce79976c2a1990099bd5cf16a7a4047ce1_main_hero_image.jpg" />
 </p>
- 
-
 <h1 align="center">Hi 👋, I'm Sai Krishna Kokkula</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishna01301&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishna01301" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on **E-commerce application**
 
 - 🌱 I’m currently learning **react.js**
 
