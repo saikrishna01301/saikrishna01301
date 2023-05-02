@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishna01301&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishna01301" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **E-commerce application**
+- 🔭 I’m currently working on **Crop Recommendation system using ML and React.js**
 
 - 🌱 I’m currently learning **react.js**
 
