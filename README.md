@@ -103,9 +103,7 @@ Exploring agentic workflows, multi-modal AI, and the future of intelligent appli
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=saikrishna01301&theme=algolia&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saikrishna01301&theme=algolia&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
