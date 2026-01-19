@@ -10,14 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=saikrishna01301&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### About Me
 
+**AI Engineer**
 - Building AI-powered applications with **RAG & LLMs**
 - Passionate about **Generative AI** & intelligent systems
-- Turning complex problems into elegant solutions
-- Open to collaborating on **AI/ML projects**
+- Exploring agentic workflows and multi-modal AI
+
+**Full Stack Developer**
+- Crafting modern web apps with **React, Next.js & TypeScript**
+- Building scalable backends with **Python, FastAPI & Node.js**
+- Experience with **PostgreSQL, Redis & cloud deployments**
 
 <br clear="right"/>
 
@@ -91,16 +96,20 @@ Exploring agentic workflows, multi-modal AI, and the future of intelligent appli
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saikrishna01301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishna01301&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" />
+  <a href="https://github.com/saikrishna01301">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saikrishna01301&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saikrishna01301&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna01301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=ffffff" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=saikrishna01301&theme=algolia&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishna01301&custom_title=Contribution%20Graph&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=6AD3F7&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saikrishna01301&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true" width="95%"/>
 </p>
 
 ---
