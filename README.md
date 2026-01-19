@@ -1,33 +1,47 @@
+# Sai Krishna Kokkula
+
+**AI Engineer & Full-Stack Developer** | MS Computer Science @ Pace University
+
+Building intelligent applications that bridge AI with real-world solutions.
+
+---
+
+## Currently Building
+
+- **[rag-based-pdf-reader](https://github.com/saikrishna01301/rag-based-pdf-reader)** — RAG-powered document intelligence
+- **[debug.ai](https://github.com/saikrishna01301/debug.ai)** — AI-assisted debugging tool
+
+## Notable Projects
+
+| Project                                                                        | Stack                           | Description                                                 |
+| ------------------------------------------------------------------------------ | ------------------------------- | ----------------------------------------------------------- |
+| [crop_recommendation](https://github.com/saikrishna01301/crop_recommendation)  | React, Firebase, ML             | Personalized farming recommendations using machine learning |
+| [React_ecommerce_spa](https://github.com/saikrishna01301/React_ecommerce_spa)  | React, Redux, GraphQL, Firebase | Full-featured e-commerce application                        |
+| [NASA-mission-control](https://github.com/saikrishna01301/NASA-misson-control) | JavaScript                      | Space mission management system                             |
+| [Pick-Eat](https://github.com/saikrishna01301/Pick-Eat)                        | JavaScript                      | Food delivery platform                                      |
+
+## Tech Stack
+
+```
+AI/ML        →  Python, RAG, LangChain, Vector DBs
+Frontend     →  React, TypeScript, Next.js, Redux
+Backend      →  Node.js, Python, GraphQL, Firebase
+Database     →  PostgreSQL, MySQL, Firebase
+```
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikrishna01301)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/saikrishna01301)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kittu.sai01301@gmail.com)
+
+---
+
 <p align="center">
-  <img src="https://cdn.wccftech.com/wp-content/uploads/2016/05/42f584ce79976c2a1990099bd5cf16a7a4047ce1_main_hero_image.jpg" />
-</p>
-<h1 align="center">Hi 👋, I'm Sai Krishna Kokkula</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikrishna01301&label=Profile%20views&color=0e75b6&style=flat" alt="saikrishna01301" /> </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on **Crop Recommendation System Using ML and React.js**
-
-- 🌱 I’m currently learning **react.js**
-
-- 👯 I’m looking to collaborate on **JavaScript, React Projects**
-
-- 💬 Ask me about **JavaScript and React**
-
-- 📫 How to reach me **kittu.sai01301@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saikrishna01301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikrishna01301" height="30" width="40" /></a>
-<a href="https://instagram.com/_kittu.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kittu.k_" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=saikrishna01301&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishna01301&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikrishna01301&show_icons=true&locale=en&layout=compact" alt="saikrishna01301" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikrishna01301&show_icons=true&locale=en" alt="saikrishna01301" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikrishna01301&" alt="saikrishna01301" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishna01301&layout=compact&theme=github_dark&hide_border=true" />
+</p>
